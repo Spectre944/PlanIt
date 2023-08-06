@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","PlanModel.py","SceTableModel.py","SceTreeModel.py","main.py","SceJsonWork.py"]
+}
